@@ -1,6 +1,6 @@
 baseURL: ""
 languageCode: en-us
-title: Ronen's New Hugo Site
+title: Ronen's Site (for Testing Purposes only)
 Theme: PaperMod 
 
 
@@ -145,13 +145,7 @@ params:
   homeInfoParams:
     Title: "PaperMod's Demo"
     Content: >
-      👋 Welcome to demo page of Hugo's theme PaperMod!
-
-      - **PaperMod**  is designed to be clean and simple but fast and responsive theme with useful feature-set that enhances UX.
-
-      - Feel free to show your support by giving us a star 🌟 on GitHub and sharing with your friends and social media .
-
-      - PaperMod is based on theme [Paper](https://github.com/nanxiaobei/hugo-paper/tree/4330c8b12aa48bfdecbcad6ad66145f679a430b3).
+      Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Tempus iaculis urna id volutpat lacus laoreet non. Convallis aenean et tortor at. Mi sit amet mauris commodo quis imperdiet. Sed viverra ipsum nunc aliquet bibendum enim facilisis gravida. Vel quam elementum pulvinar etiam non quam. Lacus sed viverra tellus in hac habitasse. Viverra ipsum nunc aliquet bibendum enim. Sit amet risus nullam eget felis eget nunc lobortis mattis. Pharetra et ultrices neque ornare aenean euismod elementum. In massa tempor nec feugiat nisl. Id consectetur purus ut faucibus pulvinar elementum. Pretium vulputate sapien nec sagittis aliquam malesuada. Laoreet suspendisse interdum consectetur libero id faucibus nisl tincidunt eget. Orci nulla pellentesque dignissim enim sit amet venenatis urna cursus. Pulvinar pellentesque habitant morbi tristique senectus et netus et malesuada. Bibendum neque egestas congue quisque egestas diam in arcu cursus.
 
   socialIcons:
     - name: github
